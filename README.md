@@ -7,4 +7,5 @@ Use Mobile Version of Instagram (Stories, Posting, Direct Messages) on Desktop.
 Fix For Sepehr Sohrabi's [__Instagram mobile on Desktop__](https://greasyfork.org/zh-TW/scripts/386788-instagram-mobile-on-desktop) script.  
 
 __Known Issues:__  
-Can't view all comments.
+Can't read all comments.
+Can't post stories.
