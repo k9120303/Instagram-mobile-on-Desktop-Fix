@@ -1,10 +1,10 @@
 // ==UserScript==
 // @name         Instagram mobile on Desktop Fix
 // @namespace    none
-// @version      1.0
+// @version      1.0.1
 // @description  Change the User Agent on Instagram to use mobile version on Desktop
 // @icon         https://www.google.com/s2/favicons?domain=Instagram.com
-// @author       Geven Ko
+// @author       k9120303
 // @match        https://www.instagram.com/
 // @include      https://www.Instagram.com/*
 // @match        https://instagram.com/
